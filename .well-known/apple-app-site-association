@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5XZ6GR69RG.com.myodds.app"],
+        "components": [
+          { "/": "/join/*", "comment": "Crew invites — opens MyOdds, joins crew + grants 24h Pro to both sides" }
+        ]
+      }
+    ]
+  }
+}
